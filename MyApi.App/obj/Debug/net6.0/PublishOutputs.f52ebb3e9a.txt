@@ -1,0 +1,11 @@
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/MyApi.App
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/appsettings.json
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/MyApi.App.dll
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/MyApi.App.deps.json
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/MyApi.App.runtimeconfig.json
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/MyApi.App.pdb
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/alex/Revature/AlejandroH/Revature_training_docker/MyApi/MyApi.App/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

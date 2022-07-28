@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IKHk9rGZobrc6J8ZyfGwh847Fjrv3NseD4jmgeeYr3Y=",
+  "Source": "MyApi.App",
+  "BasePath": "_content/MyApi.App",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
