@@ -68,7 +68,7 @@ namespace MyApi.App.Controllers
         }
         [HttpGet("/helloworld")]
         public ContentResult PrintHelloWorld(){
-            string json = JsonSerializer.Serialize("hello:world");
+            string json = JsonSerializer.Serialize("hello:alejandro");
             var result = new ContentResult(){
                 StatusCode = 200,
                 ContentType = "application/json",
